@@ -2,7 +2,7 @@
   "bin": {
     "your-command-here": "./index.js"
   },
-  "name": "patgoral-resume",
+  "name": "patgoral-resume2",
   "version": "1.0.0",
   "description": "Resume Homework",
   "main": "index.js",
